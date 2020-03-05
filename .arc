@@ -1,5 +1,5 @@
 @app
-begin-app
+jump-uo7
 
 @static
 folder build
